@@ -12,9 +12,6 @@ namespace CA0922
         {
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Saját név");
-            Console.WriteLine("klnnklsnfk");
-            
-
             Console.ReadKey(true);
         }
     }
